@@ -1,0 +1,481 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2093px" height="1058px" viewBox="-0.5 -0.5 2093 1058" content="&lt;mxfile&gt;&lt;diagram id=&quot;XiW7QYlJjzAhrlQzth4X&quot; name=&quot;Page-1&quot;&gt;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&lt;/diagram&gt;&lt;/mxfile&gt;" style="background-color: rgb(255, 255, 255);">
+    <defs>
+        <clipPath id="mx-clip-684-715-202-40-0">
+            <rect x="684" y="715" width="202" height="40"/>
+        </clipPath>
+        <clipPath id="mx-clip-684-763-202-56-0">
+            <rect x="684" y="763" width="202" height="56"/>
+        </clipPath>
+        <clipPath id="mx-clip-1054-721-452-34-0">
+            <rect x="1054" y="721" width="452" height="34"/>
+        </clipPath>
+        <clipPath id="mx-clip-1054-763-452-70-0">
+            <rect x="1054" y="763" width="452" height="70"/>
+        </clipPath>
+        <clipPath id="mx-clip-534-991-152-26-0">
+            <rect x="534" y="991" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-709-991-152-26-0">
+            <rect x="709" y="991" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-991-152-34-0">
+            <rect x="884" y="991" width="152" height="34"/>
+        </clipPath>
+        <clipPath id="mx-clip-884-1033-152-26-0">
+            <rect x="884" y="1033" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1039-405-492-60-0">
+            <rect x="1039" y="405" width="492" height="60"/>
+        </clipPath>
+        <clipPath id="mx-clip-1039-473-492-72-0">
+            <rect x="1039" y="473" width="492" height="72"/>
+        </clipPath>
+        <clipPath id="mx-clip-1694-419-292-54-0">
+            <rect x="1694" y="419" width="292" height="54"/>
+        </clipPath>
+        <clipPath id="mx-clip-1684-761-292-26-0">
+            <rect x="1684" y="761" width="292" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1684-795-292-50-0">
+            <rect x="1684" y="795" width="292" height="50"/>
+        </clipPath>
+        <clipPath id="mx-clip-1675-31-152-26-0">
+            <rect x="1675" y="31" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-1675-65-152-26-0">
+            <rect x="1675" y="65" width="152" height="26"/>
+        </clipPath>
+        <clipPath id="mx-clip-194-337-412-54-0">
+            <rect x="194" y="337" width="412" height="54"/>
+        </clipPath>
+        <clipPath id="mx-clip-194-399-412-52-0">
+            <rect x="194" y="399" width="412" height="52"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-111-252-34-0">
+            <rect x="4" y="111" width="252" height="34"/>
+        </clipPath>
+        <clipPath id="mx-clip-4-153-252-42-0">
+            <rect x="4" y="153" width="252" height="42"/>
+        </clipPath>
+    </defs>
+    <g>
+        <path d="M 680 710 L 680 670 L 890 670 L 890 710" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 680 710 L 680 814 L 890 814 L 890 710" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 680 710 L 890 710" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="784.5" y="687.5">
+                &lt;&lt;interface&gt;&gt;
+            </text>
+            <text x="784.5" y="701.5">
+                CPU
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-715-202-40-0)" font-size="12px">
+            <text x="685.5" y="727.5">
+                # clk: int64_t
+            </text>
+            <text x="685.5" y="741.5">
+                # memory_systrem_: MemorySystem
+            </text>
+        </g>
+        <path d="M 680 754 L 890 754" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-684-763-202-56-0)" font-size="12px">
+            <text x="685.5" y="775.5">
+                + ReadCallBack(uint64_t): void
+            </text>
+            <text x="685.5" y="789.5">
+                + WriteCallBack(uint64_t): void
+            </text>
+            <text x="685.5" y="803.5">
+                + virtual ClockTick() = 0: void
+            </text>
+        </g>
+        <path d="M 1050 716 L 1050 690 L 1510 690 L 1510 716" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1050 716 L 1050 860 L 1510 860 L 1510 716" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1050 716 L 1510 716" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1279.5" y="707.5">
+                MemorySystem
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1054-721-452-34-0)" font-size="12px">
+            <text x="1055.5" y="733.5">
+                - config_: Config
+            </text>
+            <text x="1055.5" y="747.5">
+                - dram_system_: BaseDRAMSsytem*
+            </text>
+        </g>
+        <path d="M 1050 754 L 1510 754" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1054-763-452-70-0)" font-size="12px">
+            <text x="1055.5" y="775.5">
+                + RegisterCallbacks(std::function&lt;void(uint64_t)&gt;, std::function&lt;void(uint64_t)&gt;): void
+            </text>
+            <text x="1055.5" y="789.5">
+                + ClockTick(): void
+            </text>
+            <text x="1055.5" y="803.5">
+                + WillAcceptTransaction(uint64_t, bool): bool
+            </text>
+            <text x="1055.5" y="817.5">
+                + AddTransaction(uint64_t, bool): bool
+            </text>
+        </g>
+        <path d="M 1050 828 L 1485 828 L 1510 853 L 1510 860 L 1050 860 L 1050 828 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1485 828 L 1485 853 L 1510 853" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 458px; height: 1px; padding-top: 844px; margin-left: 1051px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                为dram_system提供一层抽象，处理不同DRAM的多态
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1280" y="848" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    为dram_system提供一层抽象，处理不同DRAM的多态
+                </text>
+            </switch>
+        </g>
+        <path d="M 890 730 L 1047.76 732.96" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1035.76 739.23 L 1048.88 732.98 L 1036.01 726.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 530 986 L 530 960 L 690 960 L 690 986" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 530 986 L 530 1012 L 690 1012 L 690 986" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 530 986 L 690 986" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="609.5" y="977.5">
+                RandomCPU
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-534-991-152-26-0)" font-size="12px">
+            <text x="535.5" y="1003.5">
+                + ClockTick() override: void
+            </text>
+        </g>
+        <path d="M 705 986 L 705 960 L 865 960 L 865 986" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 705 986 L 705 1012 L 865 1012 L 865 986" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 705 986 L 865 986" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="784.5" y="977.5">
+                StreamCPU
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-709-991-152-26-0)" font-size="12px">
+            <text x="710.5" y="1003.5">
+                + ClockTick() override: void
+            </text>
+        </g>
+        <path d="M 880 986 L 880 960 L 1040 960 L 1040 986" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 986 L 880 1054 L 1040 1054 L 1040 986" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 880 986 L 1040 986" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="959.5" y="977.5">
+                TraceBasedCPU
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-991-152-34-0)" font-size="12px">
+            <text x="885.5" y="1003.5">
+                - trace_file_: std:ifstream
+            </text>
+            <text x="885.5" y="1017.5">
+                - trans_: Transaction
+            </text>
+        </g>
+        <path d="M 880 1024 L 1040 1024" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-884-1033-152-26-0)" font-size="12px">
+            <text x="885.5" y="1045.5">
+                + ClockTick() override: void
+            </text>
+        </g>
+        <path d="M 610 960 L 610 897 Q 610 887 620 887 L 775 887 Q 785 887 785 877 L 785 828.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 785 815.12 L 791.5 828.12 L 778.5 828.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 785 960 L 785 828.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 785 815.12 L 791.5 828.12 L 778.5 828.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 960 960 L 960 897 Q 960 887 950 887 L 795 887 Q 785 887 785 877 L 785 828.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 785 815.12 L 791.5 828.12 L 778.5 828.12 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1035 400 L 1035 360 L 1535 360 L 1535 400" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1035 400 L 1035 540 L 1535 540 L 1535 400" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1035 400 L 1535 400" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1284.5" y="377.5">
+                &lt;&lt;interface&gt;&gt;
+            </text>
+            <text x="1284.5" y="391.5">
+                BaseDRAMSystem
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1039-405-492-60-0)" font-size="12px">
+            <text x="1040.5" y="417.5">
+                + read_callback: std::function&lt;void(uint64_t req_id)&gt;
+            </text>
+            <text x="1040.5" y="431.5">
+                + write_callback: std::function&lt;void(uint64_t req_id)&gt;
+            </text>
+            <text x="1040.5" y="445.5">
+                # ctrls_: std::vector&lt;Controller*&gt;
+            </text>
+        </g>
+        <path d="M 1035 464 L 1535 464" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1039-473-492-72-0)" font-size="12px">
+            <text x="1040.5" y="485.5">
+                + RegisterCallbacks(std::function&lt;void(uint64_t)&gt;, std::function&lt;void(uint64_t)&gt;): void
+            </text>
+            <text x="1040.5" y="499.5">
+                + virtual ClockTick() = 0: void
+            </text>
+            <text x="1040.5" y="513.5">
+                + virtual WillAcceptTransaction(uint64_t, bool) = 0: bool
+            </text>
+            <text x="1040.5" y="527.5">
+                + virtual AddTransaction(uint64_t, bool) = 0: bool
+            </text>
+        </g>
+        <path d="M 1280 690 L 1283.08 542.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1289.33 554.25 L 1283.1 541.12 L 1276.33 553.98" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1690 414 L 1690 388 L 1990 388 L 1990 414" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1690 414 L 1690 468 L 1990 468 L 1990 414" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1690 414 L 1990 414" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1839.5" y="405.5">
+                JedecDRAMSystem
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1694-419-292-54-0)" font-size="12px">
+            <text x="1695.5" y="431.5">
+                + ClockTick() override: void
+            </text>
+            <text x="1695.5" y="445.5">
+                + WillAcceptTransaction(uint64_t, bool) override: bool
+            </text>
+            <text x="1695.5" y="459.5">
+                + AddTransaction(uint64_t, bool) override: bool
+            </text>
+        </g>
+        <path d="M 1680 756 L 1680 730 L 1980 730 L 1980 756" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1680 756 L 1680 870 L 1980 870 L 1980 756" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1680 756 L 1980 756" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1829.5" y="747.5">
+                IdealDRAMSystem
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1684-761-292-26-0)" font-size="12px">
+            <text x="1685.5" y="773.5">
+                - latency_: int
+            </text>
+        </g>
+        <path d="M 1680 786 L 1980 786" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1684-795-292-50-0)" font-size="12px">
+            <text x="1685.5" y="807.5">
+                + ClockTick() override: void
+            </text>
+            <text x="1685.5" y="821.5">
+                + WillAcceptTransaction(uint64_t, bool) override: bool
+            </text>
+            <text x="1685.5" y="835.5">
+                + AddTransaction(uint64_t, bool) override: bool
+            </text>
+        </g>
+        <path d="M 1680 840 L 1955 840 L 1980 865 L 1980 870 L 1680 870 L 1680 840 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1955 840 L 1955 865 L 1980 865" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 298px; height: 1px; padding-top: 855px; margin-left: 1681px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                未使用
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="1830" y="859" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    未使用
+                </text>
+            </switch>
+        </g>
+        <path d="M 1690 441 L 1622.5 441 Q 1612.5 441 1612.5 451 L 1612.5 494 Q 1612.5 504 1602.5 504 L 1549.12 504" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1536.12 504 L 1549.12 497.5 L 1549.12 510.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1680 815 L 1610 815 Q 1600 815 1600 805 L 1600 515 Q 1600 505 1590 505 L 1558 505 Q 1548 505 1548 504.5 L 1548 504.25 Q 1548 504 1548.56 504 L 1549.12 504" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1536.12 504 L 1549.12 497.5 L 1549.12 510.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1671 26 L 1671 0 L 1831 0 L 1831 26" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1671 26 L 1671 86 L 1831 86 L 1831 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1671 26 L 1831 26" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="1750.5" y="17.5">
+                HMCMemorySystem
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1675-31-152-26-0)" font-size="12px">
+            <text x="1676.5" y="43.5">
+                + field: type
+            </text>
+        </g>
+        <path d="M 1671 56 L 1831 56" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-1675-65-152-26-0)" font-size="12px">
+            <text x="1676.5" y="77.5">
+                + method(type): type
+            </text>
+        </g>
+        <path d="M 1671 39 L 1613 39 Q 1603 39 1603 49 L 1603 494 Q 1603 504 1593 504 L 1549.12 504" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="none"/>
+        <path d="M 1536.12 504 L 1549.12 497.5 L 1549.12 510.5 Z" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 190 332 L 190 306 L 610 306 L 610 332" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 190 332 L 190 446 L 610 446 L 610 332" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 190 332 L 610 332" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="399.5" y="323.5">
+                Controller
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-194-337-412-54-0)" font-size="12px">
+            <text x="195.5" y="349.5">
+                - unified_queue_: std::vector&lt;Transaction&gt;
+            </text>
+            <text x="195.5" y="363.5">
+                - read_queue_: std::vector&lt;Transaction&gt;
+            </text>
+            <text x="195.5" y="377.5">
+                - write_buffer_: std::vector&lt;Transaction&gt;
+            </text>
+        </g>
+        <path d="M 190 390 L 610 390" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-194-399-412-52-0)" font-size="12px">
+            <text x="195.5" y="411.5">
+                + ClockTick(): void
+            </text>
+            <text x="195.5" y="425.5">
+                + WillAcceptTransaction(uint64_t hex_addr, bool is_write) const: bool
+            </text>
+            <text x="195.5" y="439.5">
+                + AddTransaction(Transaction trans): bool
+            </text>
+        </g>
+        <path d="M 1035 430 L 612.23 394.05" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 624.62 388.58 L 611.11 393.95 L 623.52 401.53" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 412px; margin-left: 823px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); background-color: rgb(255, 255, 255); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 11px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; background-color: rgb(255, 255, 255); white-space: nowrap;">
+                                <span style="font-size: 12px ; background-color: rgb(248 , 249 , 250)">
+                                    封装trans发送给Controller
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="823" y="415" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="11px" text-anchor="middle">
+                    封装trans发送给Controller
+                </text>
+            </switch>
+        </g>
+        <path d="M 1972 156 L 1836.67 86.8" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1832 84.41 L 1839.82 84.48 L 1836.67 86.8 L 1836.63 90.72 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1972 156 L 1862.19 382.27" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1859.9 386.99 L 1859.81 379.17 L 1862.19 382.27 L 1866.1 382.22 Z" fill="rgb(0, 0, 0)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 1972 96 L 2067 96 L 2092 121 L 2092 156 L 1972 156 L 1972 96 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 2067 96 L 2067 121 L 2092 121" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 118px; height: 1px; padding-top: 128px; margin-left: 1973px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                在此对象内callback回CPU
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="2032" y="140" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    在此对象内callback回CPU
+                </text>
+            </switch>
+        </g>
+        <path d="M 320 122 L 320 96 L 480 96 L 480 122" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 320 122 L 320 146 L 480 146 L 480 122" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 320 122 L 480 122" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="399.5" y="113.5">
+                ChannelState
+            </text>
+        </g>
+        <path d="M 320 122 L 456 122 L 480 146 L 480 146 L 320 146 L 320 122 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 456 122 L 456 146 L 480 146" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 158px; height: 1px; padding-top: 134px; margin-left: 321px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                维护Chnanel信息
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="400" y="138" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    维护Chnanel信息
+                </text>
+            </switch>
+        </g>
+        <path d="M 400 306 L 400 148.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 406.5 160.12 L 400 147.12 L 393.5 160.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 106 L 0 80 L 260 80 L 260 106" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 106 L 0 216 L 260 216 L 260 106" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 0 106 L 260 106" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" font-weight="bold" pointer-events="none" text-anchor="middle" font-size="12px">
+            <text x="129.5" y="97.5">
+                CommandQueue
+            </text>
+        </g>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-111-252-34-0)" font-size="12px">
+            <text x="5.5" y="123.5">
+                - channel_state_: const ChannelState&amp;
+            </text>
+            <text x="5.5" y="137.5">
+                - queues_: std::vector&lt;CMDQueue&gt;
+            </text>
+        </g>
+        <path d="M 0 144 L 260 144" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g fill="rgb(0, 0, 0)" font-family="Helvetica" pointer-events="none" clip-path="url(#mx-clip-4-153-252-42-0)" font-size="12px">
+            <text x="5.5" y="165.5">
+                + ClcokTick(): void
+            </text>
+            <text x="5.5" y="179.5">
+                + AddCommand(Command): bool
+            </text>
+        </g>
+        <path d="M 0 190 L 235 190 L 260 215 L 260 216 L 0 216 L 0 190 Z" fill="rgb(255, 255, 255)" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 235 190 L 235 215 L 260 215" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 258px; height: 1px; padding-top: 203px; margin-left: 1px;">
+                        <div data-drawio-colors="color: rgb(0, 0, 0); " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(0, 0, 0); line-height: 1.2; pointer-events: none; white-space: normal; overflow-wrap: normal;">
+                                queue为某一bank的命令队列
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="130" y="207" fill="rgb(0, 0, 0)" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    queue为某一bank的命令队列
+                </text>
+            </switch>
+        </g>
+        <path d="M 400 306 L 400 271 Q 400 261 390 261 L 140 261 Q 130 261 130 251 L 130 218.24" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 136.5 230.12 L 130 217.12 L 123.5 230.12" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 260 123 L 317.76 122.04" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+        <path d="M 305.99 128.73 L 318.88 122.02 L 305.78 115.74" fill="none" stroke="rgb(0, 0, 0)" stroke-miterlimit="10" pointer-events="none"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

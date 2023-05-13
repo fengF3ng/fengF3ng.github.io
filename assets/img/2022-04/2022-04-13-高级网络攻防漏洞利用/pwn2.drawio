@@ -1,0 +1,58 @@
+<mxfile host="65bd71144e">
+    <diagram id="KBCqjGBsZEF4duHTGgWA" name="Page-1">
+        <mxGraphModel dx="1386" dy="784" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="0x404ee0(buf):leave之后的rbp内容&lt;br&gt;0x404ee8:rop链起点&lt;br&gt;&lt;br&gt;...&lt;br&gt;0x404fe0(rbp):0x404ee0&lt;br&gt;0x404fe8:leave_ret_address" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="160" width="220" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="&lt;div&gt;--&amp;gt; mov rsp, rbp&lt;/div&gt;&lt;div&gt;pop rbp&lt;/div&gt;&lt;div&gt;retn&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="160" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="bss段" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;comic=1;" parent="1" vertex="1">
+                    <mxGeometry x="160" y="120" width="80" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="code" style="text;align=center;fontStyle=1;verticalAlign=middle;spacingLeft=3;spacingRight=3;strokeColor=none;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;comic=1;" parent="1" vertex="1">
+                    <mxGeometry x="454" y="120" width="80" height="26" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="0x404ee0(buf):leave之后的rbp内容&lt;br&gt;0x404ee8:rop链起点&lt;br&gt;&lt;br&gt;...&lt;br&gt;0x404fe0(rbp、rsp):0x404ee0&lt;br&gt;0x404fe8:leave_ret_address" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="280" width="220" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="&lt;div&gt;mov rsp, rbp&lt;/div&gt;&lt;div&gt;--&amp;gt;pop rbp&lt;/div&gt;&lt;div&gt;retn&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="280" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="0x404ee0(rbp):leave之后的rbp内容&lt;br&gt;0x404ee8:rop链起点&lt;br&gt;&lt;br&gt;...&lt;br&gt;0x404fe0:0x404ee0&lt;br&gt;0x404fe8(rsp):leave_ret_address" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="400" width="220" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" value="&lt;div&gt;mov rsp, rbp&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pop rbp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;--&amp;gt;retn&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="400" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="0x404ee0(rbp):leave之后的rbp内容&lt;br&gt;0x404ee8:rop链起点&lt;br&gt;&lt;br&gt;...&lt;br&gt;0x404fe0:0x404ee0&lt;br&gt;0x404fe8:leave_ret_address&lt;br&gt;0x404ff0(rsp):unknown" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="520" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;div&gt;--&amp;gt;mov rsp, rbp&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pop rbp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;retn&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="520" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="" style="shape=flexArrow;endArrow=classic;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" edge="1">
+                    <mxGeometry width="50" height="50" relative="1" as="geometry">
+                        <mxPoint x="620" y="156" as="sourcePoint"/>
+                        <mxPoint x="620" y="900" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="0x404ee0(rbp、rsp):leave之后的rbp内容&lt;br&gt;0x404ee8:rop链起点&lt;br&gt;&lt;br&gt;...&lt;br&gt;0x404fe0:0x404ee0&lt;br&gt;0x404fe8:leave_ret_address&lt;br&gt;0x404ff0:unknown" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="650" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="&lt;div&gt;mov rsp, rbp&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;--&amp;gt;pop rbp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;retn&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="650" width="180" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="0x404ee0:leave之后的rbp内容&lt;br&gt;0x404ee8(rsp):rop链起点&lt;br&gt;&lt;br&gt;...&lt;br&gt;0x404fe0:0x404ee0&lt;br&gt;0x404fe8:leave_ret_address&lt;br&gt;0x404ff0:unknown" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="110" y="780" width="220" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="&lt;div&gt;mov rsp, rbp&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;pop rbp&lt;/span&gt;&lt;/div&gt;&lt;div&gt;--&amp;gt;retn&lt;/div&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;comic=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+                    <mxGeometry x="414" y="780" width="180" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
